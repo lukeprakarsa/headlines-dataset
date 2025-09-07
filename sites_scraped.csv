@@ -1,0 +1,21 @@
+﻿Website Scraped,URL,Completed?,"if false, reasoning",Date Scraped,Country,Language,Type of website,category,Reasoning,Tool Used (if not bs4)
+GlobalResearch,globalresearch.ca,TRUE,,5/15/25,Canada,English,pseudo-thinktank,Pseudo,,
+bruegel,bruegel.org,TRUE,,5/15/25,Belgium (EU),English,thinktank,EU,,
+strategic culture,strategic-culture.su,TRUE,,5/15/25,Russia,English,pseudo-thinktank,Pseudo,,
+Competitive Enterprise Institute (CEI),cei.org,TRUE,,5/15/25,US,English,thinktank,US,,
+realinstitute,realinstitutoelcano.org-en,TRUE,,5/15/25,Spain (EU),English,thinktank,EU,,
+Clingendael,clingendael.org,TRUE,,5/15/25,Netherlands (EU),English,thinktank,EU,,
+The Heritage Foundation,heritage.org,TRUE,,5/15/25,US,English,thinktank,US,,
+New Eastern Outlook,journal-neo.su,TRUE,,5/15/25,Russia,English,pseudo-thinktank,Pseudo,,
+ifri,ifri.org-en,TRUE,,5/15/25,France (EU),English,thinktank,EU,,
+Geopolitica,geopolitica.ru,TRUE,,5/15/25,Russia,English,pseudo-thinktank,Pseudo,,
+Chatham House,chathamhouse.org,TRUE,,5/15/25,London (UK),English,thinktank,EU,cloudfare challenge unsolvable by bs4,Selenium
+Hudson Institute,hudson.org,TRUE,,5/15/25,US,English,thinktank,US,,
+South Front,southfront.press,TRUE,,5/15/25,Russia,English,pseudo-thinktank,Pseudo,,
+Friedrich Ebert Stiftung,dc.fes.de,TRUE,,5/15/25,Germany (EU),English,thinktank,EU,,
+News Front,news-front.su,TRUE,,5/15/25,Russia,English,pseudo-thinktank,Pseudo,,
+Konrad  Adenaur Stiftung,kas.de,TRUE,,5/15/25,Germany (EU),English,thinktank,EU,website content blocked,Selenium
+Americans for Prosperity,americansforprosperity.org,TRUE,,5/15/25,US,English,thinktank,US,,
+Katehon,katehon.com,TRUE,,5/15/25,Russia,English,pseudo-thinktank,Pseudo,,
+International Institute for Strategic Studies,iiss.org,TRUE,,5/15/25,London (UK),English,thinktank,EU,"content is rendered using javascript, which bs4 cannot simulate execution of",?
+American Enterprise Institute,aei.org,TRUE,,5/15/25,US,English,thinktank,US,,
